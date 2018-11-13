@@ -1,0 +1,2 @@
+https://scotch.io/@PratyushB/local-storage-vs-session-storage-vs-cookie
+https://developers.google.com/web/fundamentals/primers/service-workers/
